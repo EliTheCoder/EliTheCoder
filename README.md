@@ -2,10 +2,9 @@
 I am Eli, a young programmer with a passion for code.
 <br />
 <br />
-**💻 Website:** https://elithecoder.com/
+**💻 • Website:** https://elithecoder.com/
 <br />
-<br />
-**🎮 Game:** http://play.elithecoder.com/
+**🎮 • Game:** http://play.elithecoder.com/
 <br />
 <br />
 ![](https://img.shields.io/keybase/btc/EliTheCoder)
