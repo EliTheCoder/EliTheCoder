@@ -26,4 +26,4 @@ I am Eli, a young programmer with a passion for code.
 <br />
 <hr />
 
-<img align="left" alt="EliTheCoder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EliTheCoder&show_icons=true&hide_border=true" />
+<img align="left" alt="EliTheCoder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EliTheCoder&show_icons=true&hide_border=true&theme=tokyonight" />
