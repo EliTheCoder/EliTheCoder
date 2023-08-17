@@ -23,5 +23,5 @@ I am Eli, a young programmer with a passion for code.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <hr />
-
+<img align="left" alt="EliTheCoder's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliTheCoder&show_icons=true&hide_border=true&theme=tokyonight" />
 <img align="left" alt="EliTheCoder's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EliTheCoder&show_icons=true&hide_border=true&theme=tokyonight" />
