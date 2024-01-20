@@ -2,7 +2,7 @@
 I am Eli, a young programmer with a passion for code.
 <br />
 <br />
-**💻&nbsp;&nbsp;Website:** https://elithecoder.com/
+**💻&nbsp;&nbsp;Website:** https://www.elifrigo.com
 <br />
 <br />
 ![](https://img.shields.io/github/followers/EliTheCoder?style=social)
